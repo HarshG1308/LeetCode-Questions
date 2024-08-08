@@ -73,21 +73,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+| [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 <!---LeetCode Topics End-->
