@@ -68,4 +68,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
