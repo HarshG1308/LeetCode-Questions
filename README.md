@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0101-symmetric-tree) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -188,9 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Sorting
 |  |
 | ------- |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+## Math
+|  |
+| ------- |
+| [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
