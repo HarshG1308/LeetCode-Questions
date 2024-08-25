@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2384-root-equals-sum-of-children) |
 ## Backtracking
 |  |
