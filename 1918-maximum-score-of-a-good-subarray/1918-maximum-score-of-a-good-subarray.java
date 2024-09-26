@@ -8,10 +8,8 @@ class Solution {
             int left = Integer.MIN_VALUE, right = Integer.MIN_VALUE;
 
             if(l > 0) left = nums[l-1];
-            else left = 0;
 
             if(r < nums.length-1) right = nums[r+1];
-            else right = 0;
 
             if(left > right){
                 l--;
