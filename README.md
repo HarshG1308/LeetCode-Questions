@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Stack
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 ## Dynamic Programming
 |  |
@@ -304,9 +307,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 <!---LeetCode Topics End-->
