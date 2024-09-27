@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
+| [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 ## Stack
 |  |
 | ------- |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
+| [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 ## Quickselect
 |  |
 | ------- |
@@ -304,5 +307,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
