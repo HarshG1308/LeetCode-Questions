@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1666-make-the-string-great](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1666-make-the-string-great) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
