@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 ## Hash Table
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Math
 |  |
 | ------- |
