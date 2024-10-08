@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
