@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 | [3152-maximum-value-of-an-ordered-triplet-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3152-maximum-value-of-an-ordered-triplet-ii) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 ## Hash Table
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
+| [2665-minimum-time-to-repair-cars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
 ## Dynamic Programming
 |  |
 | ------- |
