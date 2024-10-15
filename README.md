@@ -164,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
@@ -244,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0437-path-sum-iii) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0441-arranging-coins) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
