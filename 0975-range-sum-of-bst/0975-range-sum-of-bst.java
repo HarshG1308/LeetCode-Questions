@@ -16,10 +16,13 @@
 class Solution {
     int ans = 0;
     public int rangeSumBST(TreeNode root, int low, int high) {
-        if(root == null) return 0;
-        if(root.val >= low && root.val <= high) ans += root.val;
-        rangeSumBST(root.left,low,high);
-        rangeSumBST(root.right,low,high);
+        helper(root,low,high);
         return ans;
+    }
+    void helper(TreeNode root, int low, int high){
+        if(root == null) return;
+        if(root.val >= low && root.val <= high) ans += root.val;
+        helper(root.left,low,high);
+        helper(root.right,low,high);
     }
 }
