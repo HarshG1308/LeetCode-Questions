@@ -288,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0099-recover-binary-search-tree) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0441-arranging-coins) |
