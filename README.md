@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0006-zigzag-conversion) |
 | [0020-valid-parentheses](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0020-valid-parentheses) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0198-house-robber](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Sorting
 |  |
