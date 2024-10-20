@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
+| [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 ## Sorting
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0441-arranging-coins) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 ## Quickselect
 |  |
@@ -400,10 +402,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
+| [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 ## Memoization
 |  |
 | ------- |
