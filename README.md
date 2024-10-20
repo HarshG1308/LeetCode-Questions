@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
 | [2665-minimum-time-to-repair-cars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 ## Stack
 |  |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0330-patching-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
 ## Brainteaser
 |  |
@@ -406,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
+## Counting
+|  |
+| ------- |
+| [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 <!---LeetCode Topics End-->
