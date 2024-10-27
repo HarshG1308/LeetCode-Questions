@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0098-validate-binary-search-tree) |
