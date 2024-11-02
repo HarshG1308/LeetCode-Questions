@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1666-make-the-string-great) |
+| [2580-circular-sentence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2580-circular-sentence) |
 ## Design
 |  |
 | ------- |
