@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
@@ -363,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
@@ -432,4 +434,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
