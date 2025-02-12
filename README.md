@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -382,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Quickselect
 |  |
 | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
+| [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 ## Recursion
 |  |
 | ------- |
