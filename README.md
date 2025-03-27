@@ -414,6 +414,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
+| [2037-count-square-sum-triples](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2037-count-square-sum-triples) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 ## Quickselect
@@ -502,5 +503,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1656-count-good-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1656-count-good-triplets) |
+| [2037-count-square-sum-triples](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2037-count-square-sum-triples) |
 | [2122-count-special-quadruplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2122-count-special-quadruplets) |
 <!---LeetCode Topics End-->
