@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1002-maximum-width-ramp](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1656-count-good-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
@@ -493,4 +494,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1656-count-good-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 <!---LeetCode Topics End-->
