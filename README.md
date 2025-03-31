@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2665-minimum-time-to-repair-cars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 ## Merge Sort
 |  |
 | ------- |
@@ -407,6 +409,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Math
@@ -484,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2487-optimal-partition-of-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
+| [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 ## Brainteaser
 |  |
 | ------- |
