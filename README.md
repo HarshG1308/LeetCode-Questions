@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2487-optimal-partition-of-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
+| [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
@@ -513,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
+| [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
 ## Combinatorics
 |  |
 | ------- |
