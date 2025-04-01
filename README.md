@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2262-solving-questions-with-brainpower](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -403,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [2262-solving-questions-with-brainpower](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Sorting
 |  |
 | ------- |
