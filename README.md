@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0933-increasing-order-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0933-increasing-order-search-tree) |
 | [0975-range-sum-of-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0975-range-sum-of-bst) |
 | [0988-flip-equivalent-binary-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0988-flip-equivalent-binary-trees) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1021-distribute-coins-in-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
