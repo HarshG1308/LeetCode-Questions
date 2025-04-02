@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1002-maximum-width-ramp](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
@@ -485,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 ## Greedy
