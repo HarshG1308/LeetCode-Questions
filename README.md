@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
+| [0678-valid-parenthesis-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0933-increasing-order-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0933-increasing-order-search-tree) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0392-is-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [1008-binary-tree-cameras](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1008-binary-tree-cameras) |
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
@@ -509,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0330-patching-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1285-balance-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
