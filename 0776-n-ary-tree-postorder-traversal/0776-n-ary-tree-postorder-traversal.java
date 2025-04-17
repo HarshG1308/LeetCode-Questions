@@ -18,17 +18,17 @@ class Node {
 */
 
 class Solution {
-    List<Integer> ans = new ArrayList<>();
     public List<Integer> postorder(Node root) {
-        solve(root, ans);
-        Collections.reverse(ans);
+        List<Integer> ans = new ArrayList<>();
+        postorderHelper(root, ans);
         return ans;
     }
-    void solve(Node root,List<Integer> ans){
-        if(root == null) return;
-        ans.add(root.val);
-        for(int i = root.children.size()-1; i>= 0; i--){
-            solve(root.children.get(i), ans);
+
+    void postorderHelper(Node root, List<Integer> ans) {
+        if (root == null) return;
+        for (Node child : root.children) {
+            postorderHelper(child, ans);
         }
+        ans.add(root.val);
     }
 }
