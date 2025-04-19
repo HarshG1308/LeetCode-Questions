@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -343,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0543-diameter-of-binary-tree) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0784-insert-into-a-binary-search-tree) |
