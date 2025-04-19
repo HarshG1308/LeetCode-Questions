@@ -13,25 +13,22 @@
  *     }
  * }
  */
- import java.util.*;
 class Solution {
     public List<List<Integer>> levelOrderBottom(TreeNode root) {
         List<List<Integer>> ans = new ArrayList<>();
-        if (root == null) return ans;
+        if(root == null) return ans;
         Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
-        while (!q.isEmpty()) {
-            int size = q.size();
-            List<Integer> a = new ArrayList<>();
-            for (int i = 0; i < size; i++) {
-                TreeNode rv = q.poll();
-                a.add(rv.val);
-                if (rv.left != null)
-                    q.add(rv.left);
-                if (rv.right != null)
-                    q.add(rv.right);
+        q.offer(root);
+        while(!q.isEmpty()){
+            int n = q.size();
+            List<Integer> res = new ArrayList<>();
+            for(int i = 0; i < n; i++){
+                TreeNode p = q.poll();
+                res.add(p.val);
+                if(p.left!= null) q.offer(p.left);
+                if(p.right!= null) q.offer(p.right);
             }
-            ans.add(a);
+            ans.add(res);
         }
         Collections.reverse(ans);
         return ans;
