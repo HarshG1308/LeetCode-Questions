@@ -31,9 +31,8 @@ class Solution {
                 if (p.right != null)
                     q.offer(p.right);
             }
-            ans.add(res);
+            ans.add(0, res);
         }
-        Collections.reverse(ans);
         return ans;
     }
 }
