@@ -1,34 +1,33 @@
 /**
  * Definition for a binary tree node.
  * public class TreeNode {
- * int val;
- * TreeNode left;
- * TreeNode right;
- * TreeNode() {}
- * TreeNode(int val) { this.val = val; }
- * TreeNode(int val, TreeNode left, TreeNode right) {
- * this.val = val;
- * this.left = left;
- * this.right = right;
- * }
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
  * }
  */
 class Solution {
-    int maxd = 0;
-
     public List<Integer> rightSideView(TreeNode root) {
         List<Integer> ans = new ArrayList<>();
-        rightView(root,1, ans);
-        return ans;
-    }
-
-    public void rightView(TreeNode root, int curr_level, List<Integer> ans) {
-        if (root == null) return ;
-        if (curr_level > maxd) {
-            ans.add(root.val);
-            maxd = curr_level;
+        if(root == null) return ans;
+        Queue<TreeNode> q = new LinkedList<>();
+        q.offer(root);
+        while(!q.isEmpty()){
+            int len = q.size();
+            for(int i = 0; i < len; i++){
+                TreeNode r = q.poll();
+                if(i == len-1) ans.add(r.val);
+                if(r.left != null) q.offer(r.left);
+                if(r.right != null) q.offer(r.right);
+            }
         }
-        rightView(root.right, curr_level + 1, ans);
-        rightView(root.left, curr_level + 1, ans);
+        return ans;
     }
 }
