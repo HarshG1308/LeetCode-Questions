@@ -1,33 +1,26 @@
+/**
+ * Definition for a binary tree node.
+ * public class TreeNode {
+ *     int val;
+ *     TreeNode left;
+ *     TreeNode right;
+ *     TreeNode() {}
+ *     TreeNode(int val) { this.val = val; }
+ *     TreeNode(int val, TreeNode left, TreeNode right) {
+ *         this.val = val;
+ *         this.left = left;
+ *         this.right = right;
+ *     }
+ * }
+ */
 class Solution {
-
-    private void invertTreeHelper(TreeNode root)
-    {
-        
-        // Base case: end recursive call if current node is null
-         if (root == null) {
-           return;
-        }
-
-        // We will do a post-order traversal of the binary tree.
+    public TreeNode invertTree(TreeNode root) {
+        if(root == null) return null;
         TreeNode temp = root.left;
         root.left = root.right;
         root.right = temp;
-
-        // Let's swap the left and right nodes at current level
-        if(root.left!=null){
-           invertTree(root.left);
-        }
-        if(root.right!=null){
-          invertTree(root.right);
-        }
-    
-        
-    }
-
-    public TreeNode invertTree(TreeNode root) {
-        
-            invertTreeHelper(root);
-
-            return root;
+        root.left = invertTree(root.left);
+        root.right = invertTree(root.right);
+        return root;
     }
 }
