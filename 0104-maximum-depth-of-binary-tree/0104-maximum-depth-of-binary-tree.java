@@ -14,10 +14,18 @@
  * }
  */
 class Solution {
+    int h = Integer.MIN_VALUE;
     public int maxDepth(TreeNode root) {
         if(root == null) return 0;
-        int left = maxDepth(root.left);
-        int right = maxDepth(root.right);
-        return Math.max(left, right) + 1;
+        solve(root);
+        return h+1;
+    }
+
+    int solve(TreeNode root){
+        if(root == null) return 0;
+        int l = solve(root.left);
+        int r = solve(root.right);
+        h = Math.max(l, r);
+        return Math.max(l,r) + 1;
     }
 }
