@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0077-combinations](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0096-unique-binary-search-trees) |
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0441-arranging-coins) |
@@ -505,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0222-count-complete-tree-nodes) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
