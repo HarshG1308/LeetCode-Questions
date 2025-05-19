@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3154-maximum-value-of-an-ordered-triplet-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3154-maximum-value-of-an-ordered-triplet-i) |
 | [3186-minimum-sum-of-mountain-triplets-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3186-minimum-sum-of-mountain-triplets-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3421-count-pairs-that-form-a-complete-day-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3421-count-pairs-that-form-a-complete-day-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Hash Table
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3321-type-of-triangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 ## Math
 |  |
 | ------- |
@@ -503,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
+| [3321-type-of-triangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3321-type-of-triangle) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Quickselect
 |  |
