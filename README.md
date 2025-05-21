@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -532,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
