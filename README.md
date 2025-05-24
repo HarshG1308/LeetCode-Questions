@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1656-count-good-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1656-count-good-triplets) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -471,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1008-binary-tree-cameras](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1008-binary-tree-cameras) |
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Sorting
@@ -602,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
 ## Counting
 |  |
 | ------- |
