@@ -397,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0095-unique-binary-search-trees-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0131-palindrome-partitioning) |
+| [1361-tiling-a-rectangle-with-the-fewest-squares](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1361-tiling-a-rectangle-with-the-fewest-squares) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
 ## Two Pointers
 |  |
