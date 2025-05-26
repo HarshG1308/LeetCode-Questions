@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2122-count-special-quadruplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2122-count-special-quadruplets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
@@ -475,6 +476,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2262-solving-questions-with-brainpower](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2262-solving-questions-with-brainpower) |
 ## Sorting
 |  |
@@ -606,11 +608,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
 | [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 ## Counting
 |  |
 | ------- |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
@@ -636,4 +640,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
+## Graph
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Topological Sort
+|  |
+| ------- |
+| [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
 <!---LeetCode Topics End-->
