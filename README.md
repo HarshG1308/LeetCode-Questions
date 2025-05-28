@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0063-unique-paths-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
@@ -207,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -420,6 +422,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0095-unique-binary-search-trees-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0095-unique-binary-search-trees-ii) |
