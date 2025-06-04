@@ -182,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2487-optimal-partition-of-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
 | [2580-circular-sentence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2580-circular-sentence) |
 | [3194-find-words-containing-character](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3194-find-words-containing-character) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Design
 |  |
 | ------- |
@@ -425,6 +426,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -654,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2122-count-special-quadruplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2122-count-special-quadruplets) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [3201-distribute-candies-among-children-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Number Theory
 |  |
 | ------- |
