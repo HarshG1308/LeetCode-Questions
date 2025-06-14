@@ -24,16 +24,16 @@ class Solution {
         if(node.neighbors.isEmpty()) return new Node(node.val);
 
         HashMap<Node, Node> copy = new HashMap<>();
-        Queue<Node> q = new LinkedList<>();
+        Stack<Node> q = new Stack<>();
 
         copy.put(node, new Node(node.val));
-        q.offer(node);
+        q.push(node);
 
         while(!q.isEmpty()){
-            Node rv = q.poll();
+            Node rv = q.pop();
             for(Node n : rv.neighbors){
                 if(!copy.containsKey(n)){
-                    q.offer(n);
+                    q.push(n);
                     copy.put(n, new Node(n.val));
                 }
                 copy.get(rv).neighbors.add(copy.get(n));
