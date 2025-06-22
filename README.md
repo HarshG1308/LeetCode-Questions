@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1666-make-the-string-great](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1666-make-the-string-great) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2487-optimal-partition-of-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 ## Linked List
 |  |
