@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2122-count-special-quadruplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2122-count-special-quadruplets) |
 | [2138-sum-of-beauty-in-the-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2138-sum-of-beauty-in-the-array) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
@@ -496,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
