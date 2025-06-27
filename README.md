@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0094-binary-tree-inorder-traversal) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
@@ -450,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0075-sort-colors) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
@@ -507,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0063-unique-paths-ii) |
