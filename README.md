@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0133-clone-graph) |
+| [0146-lru-cache](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0232-implement-queue-using-stacks) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0146-lru-cache](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0146-lru-cache) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -738,4 +741,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
