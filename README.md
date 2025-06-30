@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0542-01-matrix](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0542-01-matrix) |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0697-degree-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0697-degree-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0697-degree-of-an-array) |
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
@@ -552,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0455-assign-cookies) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
@@ -636,6 +639,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
@@ -695,6 +699,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1986-largest-color-value-in-a-directed-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1986-largest-color-value-in-a-directed-graph) |
