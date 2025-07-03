@@ -234,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
 |  |
 | ------- |
@@ -599,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3201-distribute-candies-among-children-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 | [3227-find-missing-and-repeated-values](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3227-find-missing-and-repeated-values) |
 | [3321-type-of-triangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3321-type-of-triangle) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
 ## Quickselect
 |  |
@@ -615,10 +617,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0024-swap-nodes-in-pairs) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Matrix
 |  |
 | ------- |
