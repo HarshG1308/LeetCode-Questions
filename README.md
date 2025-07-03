@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0735-asteroid-collision](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0747-min-cost-climbing-stairs) |
 | [0797-rabbits-in-forest](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
+| [0878-shifting-letters](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0878-shifting-letters) |
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0678-valid-parenthesis-string) |
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
+| [0878-shifting-letters](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0878-shifting-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -656,6 +658,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0713-subarray-product-less-than-k) |
+| [0878-shifting-letters](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0878-shifting-letters) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1776-minimum-operations-to-reduce-x-to-zero](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1776-minimum-operations-to-reduce-x-to-zero) |
 | [2718-minimum-operations-to-make-all-array-elements-equal](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2718-minimum-operations-to-make-all-array-elements-equal) |
