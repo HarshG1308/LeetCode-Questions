@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -488,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search Tree
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
 | [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -694,6 +697,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2487-optimal-partition-of-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2487-optimal-partition-of-string) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2591-frog-jump-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2591-frog-jump-ii) |
 | [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
