@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0146-lru-cache](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0146-lru-cache) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -608,6 +609,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0797-rabbits-in-forest](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0797-rabbits-in-forest) |
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
 | [1236-n-th-tribonacci-number](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1236-n-th-tribonacci-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2037-count-square-sum-triples](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2037-count-square-sum-triples) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
