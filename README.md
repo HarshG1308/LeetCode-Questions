@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1376-selling-pieces-of-wood](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1376-selling-pieces-of-wood) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1666-make-the-string-great](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1666-make-the-string-great) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1035-cousins-in-binary-tree) |
 | [1218-lowest-common-ancestor-of-deepest-leaves](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1218-lowest-common-ancestor-of-deepest-leaves) |
 | [1285-balance-a-binary-search-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1285-balance-a-binary-search-tree) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1475-maximum-sum-bst-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1475-maximum-sum-bst-in-binary-tree) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 | [2121-find-if-path-exists-in-graph](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2121-find-if-path-exists-in-graph) |
@@ -754,6 +757,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0014-longest-common-prefix) |
 | [0386-lexicographical-numbers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0386-lexicographical-numbers) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [1350-remove-sub-folders-from-the-filesystem](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 ## Enumeration
 |  |
 | ------- |
