@@ -607,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0070-climbing-stairs) |
@@ -640,6 +641,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0089-gray-code) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0201-bitwise-and-of-numbers-range) |
