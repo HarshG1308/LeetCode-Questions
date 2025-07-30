@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2548-destroy-sequential-targets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2548-destroy-sequential-targets) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2581-divide-players-into-teams-of-equal-skill](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2581-divide-players-into-teams-of-equal-skill) |
@@ -655,6 +656,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2792-neighboring-bitwise-xor](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2792-neighboring-bitwise-xor) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Recursion
@@ -734,6 +736,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0292-nim-game) |
 | [1086-divisor-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1086-divisor-game) |
+| [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Game Theory
 |  |
 | ------- |
