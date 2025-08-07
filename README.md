@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0042-trapping-rain-water) |
+| [0046-permutations](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0055-jump-game) |
@@ -477,6 +478,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0051-n-queens) |
 | [0077-combinations](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0078-subsets) |
