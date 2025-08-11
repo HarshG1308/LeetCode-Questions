@@ -1,11 +1,14 @@
 class Solution {
     public int jump(int[] nums) {
-        int re = 0, ans = 0;
-        for(int i = 0; i < nums.length; i++){
-            int prev = re;
-            re = Math.max(re, i + nums[i]);
-            if(re != prev) ans++;
+        int steps = 0, max = 0, lastMax = 0;
+        for(int i = 0; i < nums.length-1; i++){
+            max = Math.max(max, i + nums[i]);
+            if(lastMax == i){
+                steps++;
+                lastMax = max;
+                if(max >= nums.length-1) break;
+            }
         }
-        return Math.max(ans-1, 0);
+        return steps;
     }
 }
