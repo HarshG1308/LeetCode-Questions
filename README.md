@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 | [2308-divide-array-into-equal-pairs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2362-minimum-rounds-to-complete-all-tasks](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2362-minimum-rounds-to-complete-all-tasks) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [2195-time-needed-to-buy-tickets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2195-time-needed-to-buy-tickets) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Linked List
@@ -640,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1963-find-xor-sum-of-all-pairs-bitwise-and](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1963-find-xor-sum-of-all-pairs-bitwise-and) |
 | [2037-count-square-sum-triples](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2037-count-square-sum-triples) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2609-distinct-prime-factors-of-product-of-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2609-distinct-prime-factors-of-product-of-array) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -781,6 +784,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0062-unique-paths) |
 | [0458-poor-pigs](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0458-poor-pigs) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3201-distribute-candies-among-children-ii) |
 ## Trie
 |  |
