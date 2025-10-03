@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0407-trapping-rain-water-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0455-assign-cookies) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0407-trapping-rain-water-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
@@ -418,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0404-sum-of-left-leaves) |
+| [0407-trapping-rain-water-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0513-find-bottom-left-tree-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0513-find-bottom-left-tree-value) |
 | [0542-01-matrix](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0637-average-of-levels-in-binary-tree) |
@@ -684,6 +687,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0073-set-matrix-zeroes) |
 | [0085-maximal-rectangle](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0085-maximal-rectangle) |
+| [0407-trapping-rain-water-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0407-trapping-rain-water-ii) |
 | [0542-01-matrix](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0542-01-matrix) |
 | [0945-snakes-and-ladders](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
