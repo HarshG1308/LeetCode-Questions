@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
 | [0945-snakes-and-ladders](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0945-snakes-and-ladders) |
+| [0958-sort-array-by-parity-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1002-maximum-width-ramp](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1055-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1055-pairs-of-songs-with-total-durations-divisible-by-60) |
@@ -521,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0768-partition-labels](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0768-partition-labels) |
 | [0874-backspace-string-compare](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0874-backspace-string-compare) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1918-maximum-score-of-a-good-subarray](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1918-maximum-score-of-a-good-subarray) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2414-move-pieces-to-obtain-a-string) |
 | [2442-number-of-arithmetic-triplets](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2442-number-of-arithmetic-triplets) |
@@ -611,6 +613,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0594-longest-harmonious-subsequence](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0594-longest-harmonious-subsequence) |
 | [0941-sort-array-by-parity](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0941-sort-array-by-parity) |
+| [0958-sort-array-by-parity-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/0958-sort-array-by-parity-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1256-rank-transform-of-an-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1675-magnetic-force-between-two-balls](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1675-magnetic-force-between-two-balls) |
