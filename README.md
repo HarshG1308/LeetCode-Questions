@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3606-minimum-element-after-replacement-with-digit-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3606-minimum-element-after-replacement-with-digit-sum) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
 | [3639-zero-array-transformation-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3639-zero-array-transformation-i) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3444-find-the-number-of-good-pairs-ii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3444-find-the-number-of-good-pairs-ii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Stack
@@ -307,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2681-put-marbles-in-bags](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2681-put-marbles-in-bags) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3647-zero-array-transformation-iii](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3647-zero-array-transformation-iii) |
 ## Merge Sort
 |  |
@@ -729,6 +732,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/HarshG1308/LeetCode-Questions/tree/master/1813-maximum-erasure-value) |
 | [2626-count-the-number-of-good-subarrays](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2626-count-the-number-of-good-subarrays) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/HarshG1308/LeetCode-Questions/tree/master/2856-count-complete-subarrays-in-an-array) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/HarshG1308/LeetCode-Questions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
