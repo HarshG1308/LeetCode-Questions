@@ -18,8 +18,10 @@ class Solution {
 
             freq.put(add, freq.getOrDefault(add, 0) + 1);
             int fr = freq.get(rem) - 1;
-            if (fr == 0) freq.remove(rem);
-            else freq.put(rem, fr);
+            if (fr == 0)
+                freq.remove(rem);
+            else
+                freq.put(rem, fr);
 
             ans[i - k + 1] = computeXSum(freq, x);
         }
@@ -30,10 +32,11 @@ class Solution {
     private int computeXSum(Map<Integer, Integer> freq, int x) {
         List<int[]> items = new ArrayList<>();
         for (Map.Entry<Integer, Integer> e : freq.entrySet()) {
-            items.add(new int[]{e.getKey(), e.getValue()});
+            items.add(new int[] { e.getKey(), e.getValue() });
         }
         items.sort((a, b) -> {
-            if (a[1] != b[1]) return b[1] - a[1];
+            if (a[1] != b[1])
+                return b[1] - a[1];
             return b[0] - a[0];
         });
         long sum = 0;
